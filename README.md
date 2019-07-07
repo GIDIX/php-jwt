@@ -1,3 +1,5 @@
+# CUSTOM FORK FOR ADDING ES256 SUPPORT BECAUSE GOOGLE WON'T GET THEIR BUTTS UP.
+
 [![Build Status](https://travis-ci.org/firebase/php-jwt.png?branch=master)](https://travis-ci.org/firebase/php-jwt)
 [![Latest Stable Version](https://poser.pugx.org/firebase/php-jwt/v/stable)](https://packagist.org/packages/firebase/php-jwt)
 [![Total Downloads](https://poser.pugx.org/firebase/php-jwt/downloads)](https://packagist.org/packages/firebase/php-jwt)
@@ -13,7 +15,7 @@ Installation
 Use composer to manage your dependencies and download PHP-JWT:
 
 ```bash
-composer require firebase/php-jwt
+composer require GIDIX/php-jwt
 ```
 
 Example
